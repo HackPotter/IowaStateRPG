@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Iowa State RPG</string>
+    <string name="weapon">Weapon:</string>
+    <string name="armor">Armor:</string>
+    <string name="attack">Attack</string>
+    <string name="health">Health:</string>
+    <string name="level">Level:</string>
+    <string name="exp">Experience:</string>
+    <string name="nextLevel">Next Level at:</string>
+    <string name="currentEnemy">Current Enemy:</string>
+    <string name="enemyHealth">Enemy Health:</string>
+    <string name="statusBar">status bar</string>
+    <string name="currentDungeon">Current Dungeon:</string>
+    <string name="levelingInfo">Leveling Info Bar</string>
+
+    <string name="weapon1">+1 Dull Pencil</string>
+    <string name="weapon2">+2 Sharp Pencil</string>
+    <string name="weapon3">+3 Mechanical Pencil</string>
+    <string name="weapon4">+4 Frisbee</string>
+    <string name="weapon5">+5 Ardunio Esplora</string>
+    <string name="weapon6">+6 Broken Beaker</string>
+    <string name="weapon7">+7 Hockey Stick</string>
+    <string name="weapon8">+8 Sword of Knowledge</string>
+    <string name="weapon9">+9 Laser Cannon</string>
+
+    <string name="armor1">+1 Hawkeye Jersey</string>
+    <string name="armor2">+2 Intramural T-Shirt</string>
+    <string name="armor3">+3 Basketball Jersey</string>
+    <string name="armor4">+4 Football Helmet</string>
+    <string name="armor5">+5 Football Pads</string>
+    <string name="armor6">+6 Lab Coat</string>
+    <string name="armor7">+7 Hockey Armor</string>
+    <string name="armor8">+8 Graduation Robe</string>
+    <string name="armor9">+9 Mech Suit</string>
+
+
+    <string name="SeasonsLat">42.023778</string>
+    <string name="SeasonsLon">-93.638247</string>
+    <string name="SeasonsEnemy">Agitated Professor</string>
+
+    <string name="UnionLat">42.023710</string>
+    <string name="UnionLon">-93.645704</string>
+    <string name="UnionEnemy">Security Guard</string>
+
+    <string name="ParksLat">42.027960</string>
+    <string name="ParksLon">-93.648919</string>
+    <string name="ParksEnemy">Exhausted Grad Student</string>
+
+    <string name="StateGymLat">42.024876</string>
+    <string name="StateGymLon">-93.653891</string>
+    <string name="StateGymEnemy">Macho Frat Bro</string>
+
+    <string name="TroxelLat">42.027839</string>
+    <string name="TroxelLon">-93.644084</string>
+    <string name="TroxelEnemy">Suspicious TA</string>
+
+    <string name="ArmoryLat">42.029693</string>
+    <string name="ArmoryLon">-93.650953</string>
+    <string name="ArmoryEnemy">ROTC Drill Instructor</string>
+
+    <string name="HiltonLat">42.021054</string>
+    <string name="HiltonLon">-93.634810</string>
+    <string name="HiltonEnemy">President Leath</string>
+
+    <string name="HoweLat">42.026934</string>
+    <string name="HoweLon">-93.652940</string>
+    <string name="HoweEnemy">Drone</string>
+    
+    <string name="BlackLat">42.026057</string>
+    <string name="BlackLon">-93.651433</string>
+    <string name="BlackEnemy">Robot</string>
+
+    <string name="CooverLat">42.028422</string>
+    <string name="CooverLon">-93.650907</string>
+    <string name="CooverEnemy">Cyborg</string>
+
+
+</resources>
